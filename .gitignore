@@ -5,3 +5,4 @@ __pycache__/
 .venv/
 venv/
 check_api_key
+notion_mcp_login.py
